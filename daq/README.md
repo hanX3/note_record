@@ -1,7 +1,14 @@
 # daq_record
 
 ## 20221117_labZY_manual
-1. 
+1. 菜单栏-File
+2. 菜单栏-View
+3. 菜单栏-Hardware
+4. 菜单栏-Spectrum
+5. 菜单栏-Utility
+6. 窗口-Spectrum
+7. DPP
+
 
 ## 20221128_CAEN_CoMPASS
 1. 数字化的优势
