@@ -22,4 +22,11 @@
    * PSD - 触发控制
       * PSD - 触发控制 - 数字 CFD
       * PSD - 触发控制 - Multi trigger
+      * PSD - 触发控制 – trigger hysteresis
+      * PSD - 触发控制 – input smoothing
+      * PSD - 触发控制 – veto
+      * PSD – 在线 PSD 挑选
+      * PSD – 噪声触发抑制
       * 
+
+
