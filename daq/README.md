@@ -39,3 +39,10 @@
       * Pile-up rejection
       * Veto
       * Dead time
+
+
+## 20221203_CAEN_DT5720_readout_示例
+1. 如何下载？
+2. 依赖关系
+3. ProgramDigitizer()
+4. main()
