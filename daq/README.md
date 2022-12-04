@@ -25,8 +25,17 @@
       * PSD - 触发控制 – trigger hysteresis
       * PSD - 触发控制 – input smoothing
       * PSD - 触发控制 – veto
-      * PSD – 在线 PSD 挑选
-      * PSD – 噪声触发抑制
-      * 
-
-
+   * PSD – 在线 PSD 挑选
+   * PSD – 噪声触发抑制
+   * PSD – pileup 控制
+3. DPP_QDC
+4. DPP_PHA
+   * PHA - 传统数据获取
+   * PHA-CAEN 数字方法
+      * RC-CR2 filter
+      * Trapezoidal filter
+      * Pole-Zreo Adjustment
+      * Baseline Restoration
+      * Pile-up rejection
+      * Veto
+      * Dead time
