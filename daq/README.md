@@ -7,7 +7,8 @@
 4. 菜单栏-Spectrum
 5. 菜单栏-Utility
 6. 窗口-Spectrum
-7. DPP
+7. 窗口-DPP
+8. nanoMCA 硬件
 
 
 ## 20221128_CAEN_CoMPASS
